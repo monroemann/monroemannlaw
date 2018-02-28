@@ -1,4 +1,11 @@
 
+.text {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+}
 
 #nav-bar {
   width: 100%;
@@ -31,12 +38,12 @@ nav.navbar {
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 40px;
-  background-color: #f5f5f5;
+  background-color: black;
 }
 
 .footer-container p {
