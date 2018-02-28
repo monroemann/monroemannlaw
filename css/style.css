@@ -29,7 +29,7 @@ nav.navbar {
   background-color: white;
  /* background:url('/images/footer_lodyas.png');*/
   border-radius: 10px;
-  box-shadow: 5px 5px 5px red;
+  box-shadow: 5px 5px 5px #E87D7D;
 }
 
 .main-links {
