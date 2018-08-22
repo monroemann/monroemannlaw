@@ -54,7 +54,7 @@ nav.navbar {
 
 .footer-menu {
   list-style-type:none;
-  float:right;
+  float:left;
   margin-bottom:0px;
   padding:0 20px 0 20px;
 }
