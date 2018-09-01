@@ -3,9 +3,28 @@
   font-family: 'Shadows Into Light', cursive;
 }
 
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
 h2 {
   font-family: 'Shadows Into Light', cursive;
 }
+
+h3 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+li {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+}
+
 
 #nav-bar {
   width: 100%;
@@ -34,7 +53,8 @@ nav.navbar {
 
 .main-links {
     font-size: 20px;
-    font-weight: bold;  
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .footer {
@@ -72,4 +92,9 @@ nav.navbar {
 
 .footer-menu li a {
   font-size:14px;
+}
+
+
+.articles {
+  font-size:13px;
 }
