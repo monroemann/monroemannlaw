@@ -29,6 +29,11 @@ a {
   color: red;
 }
 
+caption {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 12px;
+}
+
 
 #nav-bar {
   width: 100%;
