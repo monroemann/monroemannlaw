@@ -1,0 +1,109 @@
+
+.text {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+h3, h4 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+li {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  color: red;
+}
+
+caption {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 12px;
+}
+
+
+#nav-bar {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+nav.navbar {
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.navbar-form {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 5px;
+}
+
+.navbar {
+  background-color: white;
+ /* background:url('/images/footer_lodyas.png');*/
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #E87D7D;
+}
+
+.main-links {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 40px;
+  background-color: black;
+}
+
+.footer-container p {
+  text-align:left;
+  padding:10px 0;
+  margin-bottom:0px;
+}
+
+.footer-menu {
+  list-style-type:none;
+  float:left;
+  margin-bottom:0px;
+  padding:0 20px 0 20px;
+}
+
+.footer-menu li {
+  float:left;
+  line-height:40px;
+}
+
+.footer-menu li:not(:last-child):after {
+  content:"|";
+  margin-right:8px;
+  margin-left:8px;
+}
+
+.footer-menu li a {
+  font-size:14px;
+}
+
+
+.articles {
+  font-size:13px;
+}
